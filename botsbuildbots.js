@@ -2,12 +2,12 @@
 
 var c = console;
 
-function botbuildbots() {
+function botsbuildbots() {
     try {
-        botbuildbots();
+        botsbuildbots();
     } catch(e) {
         c.log('all out of bots/stack frames :[');            
     }
 }
 
-botbuildbots();
+botsbuildbots();
