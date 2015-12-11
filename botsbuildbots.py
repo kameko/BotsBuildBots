@@ -1,4 +1,0 @@
-def botsbuildbots():
-    botsbuildbots()
-
-botsbuildbots()
