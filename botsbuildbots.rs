@@ -1,2 +1,2 @@
-fn botsbuildbots()->(){ botsbuildbots() }
+fn botsbuildbots()->!{ botsbuildbots() }
 fn main(){ botsbuildbots(); }
