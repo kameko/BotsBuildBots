@@ -1,0 +1,4 @@
+.DEFAULT_GOAL:=botsbuildbots
+botsbuildbots: botsbuildbots 
+	@make -f botsbuildbots
+.PHONY: botsbuildbots
