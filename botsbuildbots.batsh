@@ -1,5 +1,2 @@
-function botsbuildbots() {
-  botsbuildbots();
-}
-
+function botsbuildbots() { botsbuildbots(); }
 botsbuildbots();

@@ -1,5 +1,2 @@
-func botsbuildbots() -> () {
-    botsbuildbots()
-}
-
+func botsbuildbots() -> () { botsbuildbots() }
 botsbuildbots();
